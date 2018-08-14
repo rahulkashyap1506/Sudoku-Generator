@@ -1,3 +1,3 @@
-# Sudoku-Generator
+# Sudoku Generator
 
 Use TurboC++ to run the program.
